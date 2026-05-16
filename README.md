@@ -13,5 +13,6 @@ Commandes utilisées : ip a / ping / ssh
 - Depuis PowerShell Windows
 Connexion SSH au serveur :
 ssh nora@192.168.13.131
-Authentification par mot de passe réussie.
+
+- Authentification par mot de passe réussie.
 Accès au terminal Linux depuis Windows confirmé.
